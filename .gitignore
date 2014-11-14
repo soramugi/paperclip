@@ -17,3 +17,5 @@ capybara*.html
 *SPIKE*
 *emfile.lock
 tags
+
+coverage
