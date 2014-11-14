@@ -9,5 +9,6 @@ gem "rubysl", :platforms=>:rbx
 gem "racc", :platforms=>:rbx
 gem "rails", "~> 4.0.0"
 gem "paperclip", :path=>"../"
+gem "simplecov", :require=>false
 
 gemspec :path=>"../"

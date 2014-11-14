@@ -18,5 +18,4 @@ group :development, :test do
   gem 'mime-types', '~> 1.16'
   gem 'builder', '~> 3.1.4'
   gem 'simplecov', :require => false
-  gem 'guard-rspec'
 end
